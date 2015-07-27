@@ -1,0 +1,6 @@
+{
+    "name": "cnxh/testcomposer",
+    "require": {
+        "monolog/monolog": "1.15.0"
+    }
+}
